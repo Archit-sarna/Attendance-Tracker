@@ -1,4 +1,4 @@
-# location_tracker
+# Attendance Tracker
 
 A new Flutter project.
 
